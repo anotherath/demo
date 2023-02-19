@@ -15,7 +15,7 @@ const Container = styled.div`
 function AddressBar() {
   return (
     <Container>
-      <p>Contract Address: 0xF3645B1ccCFC083004fF552C625E495c26c025BF</p>
+      <p>Contract Address: 0xF3645B1ccCFC083004fF552C625E495c26c025Bf</p>
     </Container>
   );
 }
